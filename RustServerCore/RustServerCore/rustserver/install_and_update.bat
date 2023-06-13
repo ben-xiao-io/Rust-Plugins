@@ -1,0 +1,1 @@
+steamcmd +login anonymous +force_install_dir C:\Users\benxi\Documents\RustServerCore\RustServerCore\RustServerCore\rustserver\ +app_update 258550 validate +quit

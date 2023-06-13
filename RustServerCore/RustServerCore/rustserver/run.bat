@@ -1,0 +1,1 @@
+start "RustDedicated" /B RustDedicated.exe -batchmode +server.port 28015 +server.level "Procedural Map" +server.seed 50500 +server.worldsize 4000 +server.maxplayers 10  +server.hostname "Bing Chiling" +rcon.port 28016 +rcon.password letmein +rcon.web 1
