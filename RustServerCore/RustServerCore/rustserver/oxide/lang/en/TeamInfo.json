@@ -1,0 +1,12 @@
+{
+  "CmdHelp1": "<color=orange>/teaminfo <name|ID></color> - Show team info",
+  "PlayerNotFound": "Player Not Found",
+  "TeamNotFound": "Player {0} has no team",
+  "NoPerm": "You don't have permission to use this command",
+  "Result1": "<color=orange>TeamID:</color> {0}",
+  "Result2": "\n<color=orange>Leader:</color> {0}",
+  "Result3": "\n<color=orange>Name:</color> {0}",
+  "Result4": "\n<color=orange>Start Time:</color> {0}",
+  "Result5": "\n<color=orange>Life Time:</color> {0}",
+  "Result6": "\n<color=orange>Teammates:</color> {0}"
+}

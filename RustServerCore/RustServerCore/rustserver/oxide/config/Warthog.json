@@ -1,0 +1,8 @@
+{
+  "Spawn Cooldown": 30.0,
+  "Maximum Distance Allowed For Spawning Warthog": 50.0,
+  "Spawn Warthog With Fuel": true,
+  "Warthog Automatic Fire Rate": 0.001,
+  "Warthog Semi Automatic Fire Rate": 0.5,
+  "Warthog Aim Cone": 1.0
+}
